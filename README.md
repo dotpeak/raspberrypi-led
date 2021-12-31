@@ -1,5 +1,5 @@
 # raspberrypi-led
-2 Simple scripts to turn the power and load LEDs on a raspberrypi on or off.
+2 Shell scripts to turn the power and load LEDs on a raspberrypi on or off.
 
 ## Make the files executable
 
