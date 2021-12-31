@@ -9,16 +9,16 @@ Run the command below to make the files executable.
 chmod +x on-led && off-led
 ```
 
-## Toggling the LEDs
+## Toggling the LED on
 
 ```
-ON: ./on-led
+./on-led
 ```
 
-## Toggling the LEDs
+## Toggling the LED off
 
 ```
-OFF: ./off-led
+./off-led
 ```
 
 ## Contributing
