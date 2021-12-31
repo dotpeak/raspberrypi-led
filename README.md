@@ -6,7 +6,7 @@
 Run the command below to make the files executable.
 
 ```
-chmod +x on-led && off-led
+chmod +x on-led && chmod +x off-led
 ```
 
 ## Toggling the LED on
